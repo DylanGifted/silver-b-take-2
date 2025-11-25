@@ -1,0 +1,9 @@
+silver.log
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+/.vscode/
